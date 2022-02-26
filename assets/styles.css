@@ -5,6 +5,11 @@ body {
   color: #282828;
 }
 
+.button-wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
 .button {
   margin: 30px;
   background-color: #39495c;
